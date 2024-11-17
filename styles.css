@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+    font-family:"Nunito", sans-serif;
+    background-color:white;
+    color:black;
+}
+h1 {
+    text-align:center;
+    font-family:'Poppins';
+}
+h2 {
+    margin-top:0px;
+}
+#temp {
+    border:2px solid currentColor;
+    border-radius:9px;
+    padding:9px;
+    font-size:15px;
+    width:55px;
+    margin:0px 3px 0px 0px;
+}
+#forunits {
+    border:2px solid currentColor;
+    border-radius:9px;
+    padding:9px;
+    font-size:15px;
+    width:126px;
+    margin:3px 3px 3px 0px;
+}
+#tounits {
+    border:2px solid currentColor;
+    border-radius:9px;
+    padding:9px;
+    font-size:15px;
+    width:126px;
+    margin:3px 3px 3px 0px;
+}
+#convert {
+    background-color:black;
+    color:white;
+    padding:11px 20px;
+    border:none;
+    border-radius:9px;
+    font-size:15px;
+}
+.main {
+    border:2px solid currentColor;
+    border-radius:26px;
+    padding:50px;
+    width:60%;
+    margin:auto;
+    display:flex;
+}
+#svgtemp {
+    width:100%;
+    margin:26px 50px 26px 26px;
+}
+@media screen and (max-width:600px){
+    #temp2{
+        display:none;
+    }
+}
+.dark-mode{
+    border:none;
+    background-color:transparent;
+}
+.darkmodebtn {
+    background-color:black;
+    color:white;
+}
+footer{
+    text-align:center;
+
+}
+.colorChange {
+    fill:gainsboro;
+}
