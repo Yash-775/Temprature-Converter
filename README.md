@@ -24,8 +24,11 @@ It is a front-end project do no Back-end was required.
 ## 📸 Screenshots
 
 > Desktop view
+
 ![image](https://github.com/user-attachments/assets/cd2a42a5-3124-42dd-a065-f4e7146f30c2)
+
 > Mobile view
+
 ![image](https://github.com/user-attachments/assets/f52215b9-c850-4d15-b079-fe5f42b86d6c)
 
 
